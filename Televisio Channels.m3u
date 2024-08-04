@@ -37,7 +37,7 @@ http://magyar-iptv.club:8080/live/w/6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/512px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Channel
 http://magyar-iptv.club:8080/live/w/23.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/1280px-Mozi%2B_logo.svg.png",Mozi+ HD
-http://magyar-iptv.club:8080/live/w/72.m3u8
+http://magyar-iptv.club:8080/live/w/15673.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://onlinestream.live/logos/6720.png",Moziverzum HD
 http://magyar-iptv.club:8080/live/w/74.m3u8
 #EXTINF:-1 tvg-id="Magyar_Mozi_TV" tvg-logo="https://static.wikia.nocookie.net/telelibrary/images/a/a9/Magyar_Mozi_TV_-_logo.png",Magyar Mozi TV
@@ -52,7 +52,7 @@ http://magyar-iptv.club:8080/live/w/36.m3u8
 http://magyar-iptv.club:8080/live/w/18.m3u8
 #EXTINF:-1 tvg-id="OzoneTV" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/ozone_tv_2020_wide.png",Ozone TV
 http://magyar-iptv.club:8080/live/w/153410.m3u8
-#EXTINF:-1 tvg-id="SorozatKlub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sorozatklub_logo.png/1280px-Sorozatklub_logo.png",Sorozat Klub
+#EXTINF:-1 tvg-id="SorozatKlub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sorozatklub_logo.png/800px-Sorozatklub_logo.png",Sorozat Klub
 http://magyar-iptv.club:8080/live/w/134384.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Sorozat_plusz_2018.png",Sorozat +
 http://magyar-iptv.club:8080/live/w/98.m3u8
@@ -64,8 +64,10 @@ http://magyar-iptv.club:8080/live/w/93.m3u8
 http://magyar-iptv.club:8080/live/w/92.m3u8
 #EXTINF:-1 tvg-id="RTL_Otthon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTLOtthon_logo.png/640px-RTLOtthon_logo.png",RTL Otthon
 http://magyar-iptv.club:8080/live/w/134383.m3u8
-#EXTINF:-1 tvg-id="Moziklub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Moziklub_logo.png/1024px-Moziklub_logo.png",MOZI KLUB
+#EXTINF:-1 tvg-id="Moziklub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Moziklub_logo.png/800px-Moziklub_logo.png",Mozi Klub
 http://magyar-iptv.club:8080/live/w/134382.m3u8
+#EXTINF:-1 tvg-id="Kolyokklub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/500px-K%C3%B6ly%C3%B6kklub_II.svg.png",Kölyök Klub
+http://magyar-iptv.club:8080/live/w/134381.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Paxtv2006logo.jpg",PAX TV
 http://magyar-iptv.club:8080/live/w/27980.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/spiler1_2023_wide.png",Spíler1 HD
@@ -112,8 +114,8 @@ http://magyar-iptv.club:8080/live/w/115.m3u8
 http://magyar-iptv.club:8080/live/w/35.m3u8
 #EXTINF:-1 tvg-id="" tvg-id="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/220px-Comedy_Central_2018.svg.png",Comedy Central
 http://magyar-iptv.club:8080/live/w/17.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Comedy_Central_Family_2019_Logo.svg/512px-Comedy_Central_Family_2019_Logo.svg.png",Comedy Central Family
-http://magyar-iptv.club:8080/live/w/16.m3u8
+#EXTINF:-1 tvg-id="Apostol_TV" tvg-logo="https://onlinestream.live/logos/5927.png",Apostol TV
+https://live.apostoltv.hu:443/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Minimax-logo-320.png",Minimax
 http://magyar-iptv.club:8080/live/w/70.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png",Sport1 HD
@@ -161,7 +163,7 @@ http://magyar-iptv.club:8080/live/w/122.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/viasat_history_wide.png",Viasat History SD
 http://magyar-iptv.club:8080/live/w/121.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_Explore_Logo.jpg/536px-Viasat_Explore_Logo.jpg",Viasat Explore
-http://magyar-iptv.club:8080/live/w/9213.m3u8
+http://magyar-iptv.club:8080/live/w/120.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/2560px-Cinemax_2016.svg.png",Cinemax 
 http://magyar-iptv.club:8080/live/w/14.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Cinemax_2_%282016%29.png",Cinemax 2
