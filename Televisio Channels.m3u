@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-id="M1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png",M1
 https://c402-node62-cdn.connectmedia.hu/110301/61dfb089cc31d36d5b4e0b81e455caef/69522b39/index.m3u8
 #EXTINF:-1 tvg-id="M2 / Petőfi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/b/b5/M2_gyerekcsatorna_log%C3%B3ja.png/1200px-M2_gyerekcsatorna_log%C3%B3ja.png",M2
-https://c402-node61-cdn.connectmedia.hu/110302/e6f3aec53e1b43e74b1e6eb9934c7968/694c4e1e/index.m3u8
+https://c402-node61-cdn.connectmedia.hu/110302/1cb358c92e1cbe63c351601d7ca7e380/69522b89/index.m3u8
 #EXTINF:-1 tvg-id="TV2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/1200px-TV2_2008.svg.png",TV2
-https://cdn.mediaklikk.org:2082/tv2_1ITMxEzNxYjM.m3u8
+https://cdn.mediaklikk.org:2082/tv2_0UjMxETM4kjM.m3u8
 #EXTINF:-1 tvg-id="RTL" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/rtl_magyarorszag_2022_wide.png",RTL Klub
-https://cdn.mediaklikk.org:2082/rtl_1ITMxEzNxYjM.m3u8
+https://cdn.mediaklikk.org:2082/rtl_0UjMxETM4kjM.m3u8
 #EXTINF:-1 tvg-id="Duna HD" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/d/d3/Dunatv_logo.png/1200px-Dunatv_logo.png",Duna
 https://c201-node62-cdn.connectmedia.hu/110303/fb334a0e74ecf716ac1237d39be5c68f/694c4e94/index.m3u8
 #EXTINF:-1 tvg-id="Duna World HD" tvg-logo="https://iconape.com/wp-content/files/wj/283944/png/283944.png",Duna World
@@ -16,9 +16,10 @@ https://c401-node61-cdn.connectmedia.hu/110304/c6cf66b4e4b8c49deec94e382862cf3a/
 #EXTINF:-1 tvg-id="M5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/M5logo.png/200px-M5logo.png",M5
 https://c202-node62-cdn.connectmedia.hu/110305/2277d5c754bc1463bc5a3322319eec26/694c4ff9/index.m3u8
 #EXTINF:-1 tvg-id="Spektrum Home" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/spektrum-home.png",Spektrum Home
-https://cdn.mediaklikk.org:2082/spektrumhome_1ITMxEzNxYjM.m3u8
+https://cdn.mediaklikk.org:2082/spektrumhome_0UjMxETM4kjM.m3u8
 #EXTINF:-1 tvg-id="Max4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Max4_logo.png",Max4
-https://cdn.mediaklikk.org:2082/max4_1ITMxEzNxYjM.m3u8
+https://cdn.mediaklikk.org:2082/max4_0UjMxETM4kjM.m3u8
+
 
 
 
