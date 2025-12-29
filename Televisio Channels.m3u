@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="M1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png",M1
-https://c202-node61-cdn.connectmedia.hu/110301/7c29076cc82c3f6e00f7451d0c6d28dd/694c4d92/index.m3u8
+https://c402-node62-cdn.connectmedia.hu/110301/61dfb089cc31d36d5b4e0b81e455caef/69522b39/index.m3u8
 #EXTINF:-1 tvg-id="M2 / Petőfi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/b/b5/M2_gyerekcsatorna_log%C3%B3ja.png/1200px-M2_gyerekcsatorna_log%C3%B3ja.png",M2
 https://c402-node61-cdn.connectmedia.hu/110302/e6f3aec53e1b43e74b1e6eb9934c7968/694c4e1e/index.m3u8
 #EXTINF:-1 tvg-id="TV2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/1200px-TV2_2008.svg.png",TV2
@@ -19,6 +19,7 @@ https://c202-node62-cdn.connectmedia.hu/110305/2277d5c754bc1463bc5a3322319eec26/
 https://cdn.mediaklikk.org:2082/spektrumhome_1ITMxEzNxYjM.m3u8
 #EXTINF:-1 tvg-id="Max4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Max4_logo.png",Max4
 https://cdn.mediaklikk.org:2082/max4_1ITMxEzNxYjM.m3u8
+
 
 
 
