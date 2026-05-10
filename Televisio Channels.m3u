@@ -8,7 +8,7 @@ https://cdn.mediaklikk.org:2082/tv2_00gNyEDN4ATM.m3u8
 #EXTINF:-1 tvg-id="RTL" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/rtl_magyarorszag_2022_wide.png",RTL Klub
 https://cdn.mediaklikk.org:2082/rtl_00gNyEDN4ATM.m3u8
 #EXTINF:-1 tvg-id="Duna HD" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/d/d3/Dunatv_logo.png/1200px-Dunatv_logo.png",Duna
-https://c401-node62-cdn.connectmedia.hu/110303/722d4f30209869b25c3957a8908143e2/6a002e0c/index.m3u8
+https://c201-node62-cdn.connectmedia.hu/110303/bc06eaa3f3a0cf08a0100b8bc22522ce/6a002eef/index.m3u8
 #EXTINF:-1 tvg-id="Duna World HD" tvg-logo="https://iconape.com/wp-content/files/wj/283944/png/283944.png",Duna World
 https://c402-node61-cdn.connectmedia.hu/110306/1fb7021d2e861e43552d7f7d1f46d93c/6a0029d4/index.m3u8
 #EXTINF:-1 tvg-id="M4 Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/f/fd/M4_logo.png",M4 Sport
